@@ -115,7 +115,7 @@ table td {
 }
 
 table tr:nth-child(even) {
-  background-color: #696969; /* Light gray for even rows */
+  background-color: #515151; /* Light gray for even rows */
 }
 
 table tr:nth-child(odd) {
